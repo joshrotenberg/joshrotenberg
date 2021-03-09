@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Tennessee Valley Beach](https://github.com/joshrotenberg/joshrotenberg/blob/main/img/tvb.png)
+![Tennessee Valley Beach](https://github.com/joshrotenberg/joshrotenberg/blob/main/img/tvb.png)
 <!--
 **joshrotenberg/joshrotenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -22,6 +22,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/joshrotenberg/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My dog is famous on the internet.
+- 🖼 The header picture is taken by me on the Coastal Trail in the Marin Headlands, looking NW at Tennessee Valley Beach on February 20, 2021.
 
 [0]: https://github.com/joshrotenberg/adrs
 [1]: https://github.com/joshrotenberg/covid19-dgs
