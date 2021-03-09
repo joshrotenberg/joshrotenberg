@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Tennessee Valley Beach](img/tvb.png)
+[Tennessee Valley Beach](https://github.com/joshrotenberg/joshrotenberg/blob/16201ccd054ecb99b92bba1fa581b9527f054393/img/tvb.png)
 <!--
 **joshrotenberg/joshrotenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
