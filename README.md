@@ -5,13 +5,13 @@
 -->
 
 - 🔭 I’m currently working on ...
- * [adrs][0] - Architectural Decision Record command-line tool in Rust
- * [covid19-dgs][1] - A GraphQL interface to the New York Times [Covid19](https://github.com/nytimes/covid-19-data) in Kotlin
- * [lingua_ex][2] - An Elixir wrapper around the [linuga-rs](https://crates.io/crates/lingua) language detection library
+   * [adrs][0] - Architectural Decision Record command-line tool in Rust
+   * [covid19-dgs][1] - A GraphQL interface to the New York Times [Covid19](https://github.com/nytimes/covid-19-data) in Kotlin
+   * [lingua_ex][2] - An Elixir wrapper around the [linuga-rs](https://crates.io/crates/lingua) language detection library
  
 - 🌱 I’m currently learning ...
- * [Rust](https://www.rust-lang.org)
- * [Modern Hebrew](http://hebrew-academy.org.il)
+   * [Rust](https://www.rust-lang.org)
+   * [Modern Hebrew](http://hebrew-academy.org.il)
  
  <!--
 - 👯 I’m looking to collaborate on ...
