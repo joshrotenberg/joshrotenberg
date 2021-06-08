@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on ...
    * [adrs][0] - Architectural Decision Record command-line tool in Rust
-   * [covid19-dgs][1] - A GraphQL interface to the New York Times [Covid19](https://github.com/nytimes/covid-19-data) in Kotlin
+   * [mdbook][3] - Trying to be helpful
    * [lingua_ex][2] - An Elixir wrapper around the [linuga-rs](https://crates.io/crates/lingua) language detection library
  
 - 🌱 I’m currently learning ...
@@ -27,3 +27,4 @@
 [0]: https://github.com/joshrotenberg/adrs
 [1]: https://github.com/joshrotenberg/covid19-dgs
 [2]: https://github.com/joshrotenberg/lingua_ex
+[3]: https://github.com/rust-lang/mdBook
