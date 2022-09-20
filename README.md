@@ -22,7 +22,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/joshrotenberg/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My dog is famous on the internet.
-- 🖼 The header picture is taken by me on the Coastal Trail in the Marin Headlands, looking NW at Tennessee Valley Beach on February 20, 2021.
+- 🖼 The header picture is taken by me on the Coastal Trail in the [Marin Headlands](https://www.nps.gov/goga/marin-headlands.htm), looking NW at [Tennessee Valley](https://www.nps.gov/goga/planyourvisit/tennessee_valley.htm) Beach on February 20, 2021.
 
 [0]: https://github.com/joshrotenberg/adrs
 [1]: https://github.com/joshrotenberg/covid19-dgs
