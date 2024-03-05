@@ -1,18 +1,16 @@
-### Hi there 👋
-
 ![Tennessee Valley Beach](https://github.com/joshrotenberg/joshrotenberg/blob/main/img/tvb.png)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=joshrotenberg)](https://github.com/joshrotenberg/github-profile-trophy)
 
 - 🔭 I’m currently working on ...
-   * [congress-rs][4] - A Rust client library for the [US Congress REST API](https://api.congress.gov)
+   * [adrs][0] - A Rust rewrite of the [adr-tools](https://github.com/npryce/adr-tools)
    * [mdbook][3] - Trying to be helpful
+   * [rust-analyzer][5] - Reimplementing the rust-analyzer docs with mdBook
    * [lingua_ex][2] - An Elixir wrapper around the [linuga-rs](https://crates.io/crates/lingua) language detection library
  
 - 🌱 I’m currently learning ...
    * [Rust](https://www.rust-lang.org)
    * [Modern Hebrew](http://hebrew-academy.org.il)
-   * [Italian](https://en.wikipedia.org/wiki/Italian_language)
    * [Teaching English to Speakers of Other Languages (TESOL)](https://extension.berkeley.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=17129)
  
 
@@ -25,3 +23,4 @@
 [2]: https://github.com/joshrotenberg/lingua_ex
 [3]: https://github.com/rust-lang/mdBook
 [4]: https://github.com/joshrotenberg/congress-rs
+[5]: https://github.com/rust-lang/rust-analyzer/pull/15795
